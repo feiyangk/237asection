@@ -1,0 +1,66 @@
+[0.009s] Invoking command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/aa274/autonomy_ws/src/section_1/s3_basic -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE=RelWithDebInfo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic
+[0.057s] -- The C compiler identification is GNU 11.4.0
+[0.098s] -- The CXX compiler identification is GNU 11.4.0
+[0.105s] -- Detecting C compiler ABI info
+[0.152s] -- Detecting C compiler ABI info - done
+[0.157s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.157s] -- Detecting C compile features
+[0.158s] -- Detecting C compile features - done
+[0.159s] -- Detecting CXX compiler ABI info
+[0.220s] -- Detecting CXX compiler ABI info - done
+[0.227s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.228s] -- Detecting CXX compile features
+[0.228s] -- Detecting CXX compile features - done
+[0.231s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.466s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.522s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.556s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.636s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.636s] -- Configured cppcheck include dirs: 
+[0.636s] -- Configured cppcheck exclude dirs and/or files: 
+[0.637s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.638s] -- Added test 'lint_cmake' to check CMake code style
+[0.638s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.641s] -- Added test 'uncrustify' to check C / C++ code style
+[0.641s] -- Configured uncrustify additional arguments: 
+[0.642s] -- Added test 'xmllint' to check XML markup files
+[0.643s] -- Configuring done
+[0.645s] -- Generating done
+[0.645s] [33mCMake Warning:
+[0.645s]   Manually-specified variables were not used by the project:
+[0.645s] 
+[0.645s]     CMAKE_EXPORT_COMPILE_COMMANDS
+[0.645s] 
+[0.645s] [0m
+[0.645s] -- Build files have been written to: /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic
+[0.648s] Invoked command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/aa274/autonomy_ws/src/section_1/s3_basic -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE=RelWithDebInfo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic
+[0.650s] Invoking command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic -- -j14 -l14
+[0.669s] Invoked command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic -- -j14 -l14
+[0.689s] Invoking command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic
+[0.693s] -- Install configuration: "RelWithDebInfo"
+[0.693s] -- Execute custom install script
+[0.694s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/ament_index/resource_index/package_run_dependencies/s3_basic
+[0.698s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/ament_index/resource_index/parent_prefix_path/s3_basic
+[0.701s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/environment/ament_prefix_path.sh
+[0.705s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/environment/ament_prefix_path.dsv
+[0.707s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/environment/path.sh
+[0.710s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/environment/path.dsv
+[0.713s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/local_setup.bash
+[0.716s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/local_setup.sh
+[0.719s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/local_setup.zsh
+[0.722s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/local_setup.dsv
+[0.724s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/package.dsv
+[0.729s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/ament_index/resource_index/packages/s3_basic
+[0.733s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/cmake/s3_basicConfig.cmake
+[0.735s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/cmake/s3_basicConfig-version.cmake
+[0.739s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/package.xml
+[0.742s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/lib/s3_basic/constant_control.py
+[0.745s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+[0.745s]   ament_cmake_symlink_install_directory() can't find
+[0.745s]   '/home/aa274/autonomy_ws/src/section_1/s3_basic/launch'
+[0.745s] Call Stack (most recent call first):
+[0.745s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:359 (ament_cmake_symlink_install_directory)
+[0.745s]   cmake_install.cmake:46 (include)
+[0.745s] 
+[0.745s] [0m
+[0.746s] Invoked command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic

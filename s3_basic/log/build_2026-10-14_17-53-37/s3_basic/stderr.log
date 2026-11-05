@@ -1,0 +1,14 @@
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_EXPORT_COMPILE_COMMANDS
+
+[0m
+[31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+  ament_cmake_symlink_install_directory() can't find
+  '/home/aa274/autonomy_ws/src/section_1/s3_basic/launch'
+Call Stack (most recent call first):
+  ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:359 (ament_cmake_symlink_install_directory)
+  cmake_install.cmake:46 (include)
+
+[0m

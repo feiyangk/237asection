@@ -1,0 +1,4 @@
+Invoking command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic -- -j14 -l14
+Invoked command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic -- -j14 -l14
+Invoking command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic
+Invoked command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic

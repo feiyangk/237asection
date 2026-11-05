@@ -1,0 +1,24 @@
+[0.009s] Invoking command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic -- -j14 -l14
+[0.028s] Invoked command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic -- -j14 -l14
+[0.047s] Invoking command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic
+[0.050s] -- Install configuration: "RelWithDebInfo"
+[0.050s] -- Execute custom install script
+[0.051s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/ament_index/resource_index/package_run_dependencies/s3_basic
+[0.051s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/ament_index/resource_index/parent_prefix_path/s3_basic
+[0.051s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/environment/ament_prefix_path.sh
+[0.051s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/environment/ament_prefix_path.dsv
+[0.051s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/environment/path.sh
+[0.051s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/environment/path.dsv
+[0.051s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/local_setup.bash
+[0.051s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/local_setup.sh
+[0.052s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/local_setup.zsh
+[0.052s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/local_setup.dsv
+[0.052s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/package.dsv
+[0.055s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/ament_index/resource_index/packages/s3_basic
+[0.055s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/cmake/s3_basicConfig.cmake
+[0.055s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/cmake/s3_basicConfig-version.cmake
+[0.055s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/package.xml
+[0.056s] -- Up-to-date symlink: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/lib/s3_basic/constant_control.py
+[0.056s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/launch/section3.launch.py
+[0.059s] -- Symlinking: /home/aa274/autonomy_ws/src/section_1/s3_basic/install/s3_basic/share/s3_basic/rviz/section3.rviz
+[0.063s] Invoked command in '/home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aa274/autonomy_ws/src/section_1/s3_basic/build/s3_basic
